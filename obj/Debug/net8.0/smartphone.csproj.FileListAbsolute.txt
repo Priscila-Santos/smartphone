@@ -1,0 +1,14 @@
+C:\Users\pri05\Videos\documentos sem backup\DIO\dotnet\smartphone\bin\Debug\net8.0\smartphone.exe
+C:\Users\pri05\Videos\documentos sem backup\DIO\dotnet\smartphone\bin\Debug\net8.0\smartphone.deps.json
+C:\Users\pri05\Videos\documentos sem backup\DIO\dotnet\smartphone\bin\Debug\net8.0\smartphone.runtimeconfig.json
+C:\Users\pri05\Videos\documentos sem backup\DIO\dotnet\smartphone\bin\Debug\net8.0\smartphone.dll
+C:\Users\pri05\Videos\documentos sem backup\DIO\dotnet\smartphone\bin\Debug\net8.0\smartphone.pdb
+C:\Users\pri05\Videos\documentos sem backup\DIO\dotnet\smartphone\obj\Debug\net8.0\smartphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pri05\Videos\documentos sem backup\DIO\dotnet\smartphone\obj\Debug\net8.0\smartphone.AssemblyInfoInputs.cache
+C:\Users\pri05\Videos\documentos sem backup\DIO\dotnet\smartphone\obj\Debug\net8.0\smartphone.AssemblyInfo.cs
+C:\Users\pri05\Videos\documentos sem backup\DIO\dotnet\smartphone\obj\Debug\net8.0\smartphone.csproj.CoreCompileInputs.cache
+C:\Users\pri05\Videos\documentos sem backup\DIO\dotnet\smartphone\obj\Debug\net8.0\smartphone.dll
+C:\Users\pri05\Videos\documentos sem backup\DIO\dotnet\smartphone\obj\Debug\net8.0\refint\smartphone.dll
+C:\Users\pri05\Videos\documentos sem backup\DIO\dotnet\smartphone\obj\Debug\net8.0\smartphone.pdb
+C:\Users\pri05\Videos\documentos sem backup\DIO\dotnet\smartphone\obj\Debug\net8.0\smartphone.genruntimeconfig.cache
+C:\Users\pri05\Videos\documentos sem backup\DIO\dotnet\smartphone\obj\Debug\net8.0\ref\smartphone.dll
